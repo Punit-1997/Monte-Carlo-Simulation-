@@ -6,8 +6,13 @@ Basic background in programing skill is enough for learning monte carlo user can
 ###### Basic Outline of Course : 
 Basic of Monte Carlo 
 
-###### Problem where we can apply the monte carlo
-1.Totaly Asymetric  
+###### There are many example where we can apply the Monte-Carlo Method here we will understand it by demonstrating following example.
+###### 1. To calculate area of circle 
+###### 2.1D Random walk problem 
+###### 3.Totalty assymetric model 
+###### 4.2D ising spin model
+###### 5.1D Molecular Dyanamics
+
 
 
 
