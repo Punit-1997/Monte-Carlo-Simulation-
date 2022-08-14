@@ -22,3 +22,4 @@ The area of the square is (2*R)^2 ie equal to 16, and the area of the circle is 
 So if you dropped a grain of sand in the square, it has a probability of droping the grain in circle will be 
 ###### P(grain inside circle) = (Area of circle)/(Area of square) = (Number of grain in circle)/(Number of grain in square)
 ###### Area of circle = (Number of grain in circle)*(Area of square)/(Number of grain in square)
+See the programe  monte_area.py  on repositoty
